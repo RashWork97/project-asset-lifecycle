@@ -3,7 +3,7 @@
 This project is build to automatically download and generate a report for a user to present weekly to management.
 
 ## Problem statement
-[3 to 5 sentences: who is affected, what is going wrong, and why it matters.]
+A user or management may receive a weekly report that needs a few hours to be created. The report also may contains a few errors during submission. This is time consuming for the user to create and not efficient if the report also will have a few errors, thus making the field works runs earlier than the report itself.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
