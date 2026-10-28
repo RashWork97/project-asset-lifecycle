@@ -14,4 +14,4 @@ A user or management may receive a weekly report that needs a few hours to be cr
 Planning (CSC649, Week 2)
 
 ## Author
-MOHAMAD RASHIDEEN
+MOHAMAD RASHIDEEN KHAMISAN
