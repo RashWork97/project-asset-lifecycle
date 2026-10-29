@@ -1,9 +1,9 @@
-# PROJECT REPORT AUTOMATION
+# PROJECT ASSET LIFECYCLE
 
-This project is build to automatically download and generate a report for a user to present weekly to management.
+This project is build to make sure all asset data in the company is centralize and updated no matter which department or who is read it.
 
 ## Problem statement
-A user or management may receive a weekly report that needs a few hours to be created. The report also may contains a few errors during submission. This is time consuming for the user to create and not efficient if the report also will have a few errors, thus making the field works runs earlier than the report itself.
+A company with no centralize system for assets management will cause data redundancy and not updated to the latest version. This can cause issue during auditing and time consuming if the only way is to walk and verbal talk to the respective department to update only a few details of asset.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
