@@ -1,7 +1,6 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
-
-1. As a user, I want filter the report by site ID, so that i can find a match faster.
-2. As a management, I want to see all the columns in the report, so that I can tally it with the field works.
-3. As a user, I want automatically download and generate a report, so that the report will be created faster and less errors.
+1. As a user, I want filter the assets by department name so that I can find all of my department assets.
+2. As a user, I want to update the latest details for the asset so that everyone in the company able to see it.
+3. As a head of department, I want view the dashboard and report so that i can make sure the staff correctly update the details based on the asset.
+4. As a general manager, I want to able to download the report so that I can show to the Director.
