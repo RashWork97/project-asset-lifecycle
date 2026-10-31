@@ -17,6 +17,8 @@
 3. Time consuming if movement is needed just to update a few details.
 
 ## Problem statement (3 to 5 sentences)
-1. Users need to go Finance that take up so much time just to update a few details and to avoid data redundancy.
-2. Head of department and general manager cannot correctly audit or observe the latest update for certain asset due to multiple file storing in different laptop.
-3. All the department need a centralize system that connect all the assets details that can be updated by certain department.
+1.	Users need to go Finance department that will take up so much time just to update a few details and to avoid data redundancy.
+2.	Head of department and general manager cannot correctly audit or observe the latest update for certain asset due to multiple files storing in different laptop.
+3.	There is no primary key to ensure that every asset is unique.
+4.	Unable to retrieve history for an asset that may have changes or not.
+5.	Duplicate list of assets has occurred from multiple department that store it.
