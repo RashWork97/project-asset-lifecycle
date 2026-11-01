@@ -1,9 +1,9 @@
 # PROJECT ASSET LIFECYCLE
 
-This project is build to make sure all asset data in the company is centralize and updated no matter which department or who is read it.
+This project is build to make prediction of asset lifecycle in a company while using error and problem of the asset as dataset.
 
 ## Problem statement
-A company with no centralize system for assets management will cause data redundancy and not updated to the latest version. This can cause issue during auditing and time consuming if the only way is to walk and verbal talk to the respective department to update only a few details of asset.
+When a company owns large number of assets, making sure the asset running fine is a must, but to predict which asset will keep running tomorrow is another challenge. This project is about a system that use machine learning technology to predict the lifecycle of an asset in a company. Full details about this project are in the repository in the link below.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
