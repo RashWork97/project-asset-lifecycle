@@ -2,7 +2,7 @@
 
 This project is build to make prediction of asset lifecycle in a company while using error and problem of the asset as dataset.
 
-## Problem statement
+## Problem statement - Introduction
 When a company owns large number of assets, making sure the asset running fine is a must, but to predict which asset will keep running tomorrow is another challenge. This project is about a system that use machine learning technology to predict the lifecycle of an asset in a company. Full details about this project are in the repository in the link below.
 
 ## Documents
